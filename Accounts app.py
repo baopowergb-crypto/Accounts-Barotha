@@ -804,7 +804,7 @@ process = subprocess.Popen(
 time.sleep(5)
 
 print("Streamlit server started.")
-from pyngrok import ngrok
+
 
 public_url = ngrok.connect(8501)
 
