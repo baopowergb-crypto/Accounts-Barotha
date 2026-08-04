@@ -806,7 +806,7 @@ time.sleep(5)
 print("Streamlit server started.")
 
 
-public_url = ngrok.connect(8501)
+
 
 print("======================================")
 print("GHAZI BAROTHA ACCOUNTS SYSTEM")
