@@ -4,6 +4,7 @@ import sqlite3
 import pandas as pd
 from datetime import date
 from pyngrok import ngrok
+"/mount/src/accounts-barotha/Accounts app.py"
 import threading
 import time
 
