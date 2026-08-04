@@ -812,4 +812,4 @@ print("======================================")
 print("GHAZI BAROTHA ACCOUNTS SYSTEM")
 print("======================================")
 print("Open this link:")
-print(public_url)
+
